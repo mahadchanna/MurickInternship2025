@@ -1,0 +1,5 @@
+Cluster,Recency_mean,Recency_median,Frequency_mean,Frequency_median,Monetary_mean,Monetary_median,AvgOrderValue_mean,AvgOrderValue_median,CustomerCount
+0,258.21,254.0,1.41,1.0,406.16,300.23,299.95,225.03,956
+1,39.55,26.0,5.14,5.0,2136.32,1661.84,495.25,354.32,1493
+2,57.83,51.0,1.7,2.0,424.9,380.62,282.95,229.32,1572
+3,14.07,7.0,21.7,16.0,13870.89,6292.26,576.62,398.5,315

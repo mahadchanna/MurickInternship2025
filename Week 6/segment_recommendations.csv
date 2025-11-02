@@ -1,0 +1,8 @@
+Segment,Customer Count,Avg Recency,Avg Frequency,Avg Monetary,Marketing_Strategy
+Champions,560,7.54,14.05,8275.11,"🏆 Best customers - Recent buyers, frequent orders, high spend"
+Cluster 3.0,8,80.5,13.62,4867.79,N/A
+Cluster 1.0,369,81.31,4.3,2047.56,N/A
+Lost Customers,137,204.54,4.26,1820.67,❌ Haven't purchased in a long time
+Loyal Customers,1260,23.44,4.53,1697.44,⭐ Regular customers with consistent purchasing behavior
+At Risk,947,252.99,1.24,400.71,⚠️ Previously good customers who haven't purchased recently
+Cluster 2.0,1055,65.63,1.4,397.02,N/A
